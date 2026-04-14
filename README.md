@@ -27,6 +27,10 @@ Hi, I'm **Astalaxmi Dhanaseelan** — a Computer Science undergraduate at the Un
   [Repo](https://github.com/AstalaxmiD/Enhancing-Fairness-in-Open-Source-AI-Generated-Text-Detectors)  
   Research on reducing bias in GPT text detectors for non-native English writers. Implemented domain-adaptive fine-tuning, ensemble methods, and threshold calibration.
 
+- **Independent Study: Quantum Algorithms with Qiskit:**
+  Implemented Grover’s Search and VQE in Qiskit, validating correctness via simulation and noise models. Optimized parameterized quantum circuits using classical optimization to improve convergence and reduce errors. Designed experiments to evaluate hybrid quantum-classical algorithms for accuracy, scalability, and efficiency.
+  [Repo](https://github.com/AstalaxmiD/quantum-algorithms-qiskit)
+
 ---
 
 ## 🎓 Experience
