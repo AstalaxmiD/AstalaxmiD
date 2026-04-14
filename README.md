@@ -31,6 +31,7 @@ Hi, I'm **Astalaxmi Dhanaseelan** — a Computer Science undergraduate at the Un
 
 ## 🎓 Experience
 
+- **Research Intern** - FACETlab, University of Pittsburgh
 - **Undergraduate Teaching Assistant** — Discrete Structures, University of Pittsburgh  
 - **Instructional Content Developer Intern** — Curated Python courses for learners
 
@@ -51,7 +52,6 @@ Hi, I'm **Astalaxmi Dhanaseelan** — a Computer Science undergraduate at the Un
 ![](https://nirzak-streak-stats.vercel.app/?user=AstalaxmiD&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AstalaxmiD&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AstalaxmiD&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
 
 
